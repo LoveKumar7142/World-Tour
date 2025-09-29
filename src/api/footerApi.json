@@ -1,0 +1,18 @@
+
+[
+    {
+        "icon" : "MdPlace",
+        "title" : "Find us",
+        "details" : "Ghaziabad UP"
+    },
+    {
+        "icon" : "IoCallSharp",
+        "title" : "Call Us",
+        "details" : "9958029853"
+    },
+    {
+        "icon" : "TbMailPlus",
+        "title" : "Mail Us",
+        "details" : "lovekumar714283@gmail.com"
+    }
+]

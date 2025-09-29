@@ -1,0 +1,66 @@
+.container {
+    max-width: 130rem;
+    color: aliceblue;
+    margin: auto;
+    height: 100%;
+}
+
+header {
+    background-color: rgba(22, 21, 21, 0.973);
+    box-shadow: 0 4px 6px rgba(17, 15, 15, 0.2);
+    height: 10vh;
+}
+
+.Logo {
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+.grid-template {
+    display: grid;
+    grid-template-columns: 0.4fr 1fr;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 0 30px;
+
+}
+
+.simple{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 2.9rem;
+}
+
+.ham-menu {
+    display: none;
+}
+
+@media screen and (max-width : 768px) {
+    .ham-menu {
+        display: inline-block;
+        font-size: larger;
+    }
+
+    .simple{
+        display: none;
+    }
+    .grid-template{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .menu{
+        position: absolute;
+        top: 9.9%;
+        width: 100%;
+        background-color: rgba(22, 21, 21, 0.973);
+        left: 0;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .menu>li{
+        padding-bottom: 20px;
+    }
+}

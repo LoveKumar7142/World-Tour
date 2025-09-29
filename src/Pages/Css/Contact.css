@@ -1,0 +1,30 @@
+
+form>input,textarea{
+    background-color: transparent;
+    border: 2px solid rgba(235, 229, 229, 0.486);
+    margin: 15px;
+    padding: 7px;
+    width: 30%;
+    border-radius: 5px;
+}
+.contact>h1{
+    font-size: xxx-large;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.contact,form{
+    text-align: center;
+}
+.send-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;       
+}
+
+.send-btn>button{
+    border: 2px solid rgba(235, 229, 229, 0.486);
+    width: 8rem;
+    border-radius: 5px;
+    padding: 5px;
+}

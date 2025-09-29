@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": "1.4 billion",
+    "area": "3.29 million sq km",
+    "currency": "Indian Rupee (INR)",
+    "language": "Hindi, English",
+    "fact": "India has the world’s largest postal network with over 150,000 post offices, including a floating one on Dal Lake."
+  },
+  {
+    "id": 2,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "area": "377,975 sq km",
+    "currency": "Japanese Yen (JPY)",
+    "language": "Japanese",
+    "fact": "Japan has more pets than children and vending machines for everything, including hot meals and umbrellas."
+  },
+  {
+    "id": 3,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": "39 million",
+    "area": "9.98 million sq km",
+    "currency": "Canadian Dollar (CAD)",
+    "language": "English, French",
+    "fact": "Canada has the longest coastline in the world, over 202,000 kilometers long."
+  },
+  {
+    "id": 4,
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": "144 million",
+    "area": "17.1 million sq km",
+    "currency": "Russian Ruble (RUB)",
+    "language": "Russian",
+    "fact": "Russia spans 11 time zones and covers more land area than Pluto."
+  },
+  {
+    "id": 5,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": "216 million",
+    "area": "8.51 million sq km",
+    "currency": "Brazilian Real (BRL)",
+    "language": "Portuguese",
+    "fact": "Brazil houses the Amazon Rainforest, which generates over 20% of the world’s oxygen."
+  },
+  {
+    "id": 6,
+    "name": "Switzerland",
+    "capital": "Bern",
+    "population": "8.7 million",
+    "area": "41,284 sq km",
+    "currency": "Swiss Franc (CHF)",
+    "language": "German, French, Italian, Romansh",
+    "fact": "Switzerland has remained neutral in all wars since 1815."
+  },
+  {
+    "id": 7,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "area": "7.69 million sq km",
+    "currency": "Australian Dollar (AUD)",
+    "language": "English",
+    "fact": "Australia is wider than the moon and has more kangaroos than people."
+  },
+  {
+    "id": 8,
+    "name": "China",
+    "capital": "Beijing",
+    "population": "1.43 billion",
+    "area": "9.6 million sq km",
+    "currency": "Chinese Yuan (CNY)",
+    "language": "Mandarin",
+    "fact": "The Great Wall of China stretches over 21,000 kilometers."
+  },
+  {
+    "id": 9,
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "population": "376,000",
+    "area": "103,000 sq km",
+    "currency": "Icelandic Krona (ISK)",
+    "language": "Icelandic",
+    "fact": "Iceland runs almost entirely on renewable energy and has no army."
+  },
+  {
+    "id": 10,
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "population": "800,000",
+    "area": "38,394 sq km",
+    "currency": "Bhutanese Ngultrum (BTN)",
+    "language": "Dzongkha",
+    "fact": "Bhutan measures national progress using Gross National Happiness instead of GDP."
+  }
+]
